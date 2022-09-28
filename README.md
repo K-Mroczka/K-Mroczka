@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @K-Mroczka
 - 👀 I’m interested in the natural enviroment and finding interesting ways of visualizing data
 - 🌱 I’m currently learning R basics
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects some day
 - 📫 How to reach me email me at kmroczka@ymail.com
 
 <!---
